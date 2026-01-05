@@ -8,8 +8,6 @@ trigger:
     exclude:
     - '*.yml'
 
-pool:
-  name: student-lab-pool
 
 variables:
   - name: artifactName
